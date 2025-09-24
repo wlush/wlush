@@ -1,2 +1,2 @@
 - Hello! I'm @wlush - I'm a researcher studying the interaction of physics and biogeography in the coastal ocean
-- I'm currently studying how ocean currents influence coastal biogeographic structure, as well as ways to validate numerical estimates of larval dispersal against drifter observations
+- I'm currently studying how ocean currents and larval vertical behavior influence coastal biogeographic structure, as well as ways to validate numerical estimates of larval dispersal against drifter observations
